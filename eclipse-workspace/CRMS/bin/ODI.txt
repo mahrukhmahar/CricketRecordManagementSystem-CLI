@@ -1,0 +1,140 @@
+Team: Pakistan
+First Match: 11/02/1973
+Matches Played: 969
+Matches Won: 512
+Matches Lost: 428
+Matches Tied: 8
+Matches With No Result: 21
+Average Runs per Over: 4.88
+
+Team: India
+First Match: 13/07/1974
+Matches Played: 1049
+Matches Won: 522
+Matches Lost: 448
+Matches Tied: 9
+Matches with No Result: 44
+Average Runs per Over: 5.12
+
+Team: Australia
+First Match: 05/01/1971
+Matches Played: 995
+Matches Won: 603
+Matches Lost: 349
+Matches Tied: 9
+Matches with No Result: 34
+Average Runs per Over: 5.07
+
+Team: Afghanistan
+First Match: 19/04/2009
+Matches Played: 160
+Matches Won: 77
+Matches Lost: 78
+Matches Tied: 1
+Matches with No Result: 4
+Average Runs per Over: 4.83
+
+Team: West Indies
+First Match: 05/09/1973
+Matches Played: 868
+Matches Won: 418
+Matches Lost: 410
+Matches Tied: 10
+Matches with No Result: 30
+Average Runs per Over: 4.81
+
+Team: Netherlands
+First Match: 17/02/1996
+Matches Played: 122
+Matches Won: 42
+Matches Lost: 75
+Matches Tied: 1
+Matches with No Result: 4
+Average Runs per Over: 4.68
+
+Team: England
+First Match: 05/01/1971
+Matches Played: 794
+Matches Won: 398
+Matches Lost: 357
+Matches Tied: 8
+Matches with No Result: 31
+Average Runs per Over: 5.00
+
+Team: Oman
+First Match: 27/04/2019
+Matches Played: 46
+Matches Won: 23
+Matches Lost: 21
+Matches Tied: 1
+Matches with No Result: 1
+Average Runs per Over: 4.74
+
+Team: Scotland
+First Match: 16/05/1999
+Matches Played: 153
+Matches Won: 68
+Matches Lost: 77
+Matches Tied: 1
+Matches with No Result: 7
+Average Runs per Over: 4.73
+
+Team: Namibia
+First Match: 10/02/2003
+Matches Played: 48
+Matches Won: 23
+Matches Lost: 24
+Matches Tied: 0
+Matches with No Result: 1
+Average Runs per Over: 4.83
+
+Team: Zimbabwe
+First Match: 09/06/1983
+Matches Played: 567
+Matches Won: 152
+Matches Lost: 395
+Matches Tied: 7
+Matches with No Result: 13
+Average Runs per Over: 4.56
+
+Team: New Zealand
+First Match: 11/02/1973
+Matches Played: 820
+Matches Won: 376
+Matches Lost: 395
+Matches Tied: 6
+Matches with No Result: 43
+Average Runs per Over: 4.89
+
+Team: Bangladesh
+First Match: 31/03/1986
+Matches Played: 431
+Matches Won: 156
+Matches Lost: 265
+Matches Tied: 0
+Matches with No Result: 10
+Average Runs per Over: 4.66
+
+Team: Nepal
+First Match: 01/08/2018
+Matches Played: 59
+Matches Won: 30
+Matches Lost: 27
+Matches Tied: 1
+Matches with No Result: 1
+Average Runs per Over: 4.59
+
+Team: Sri Lanka
+First Match: 07/06/1975
+Matches Played: 910
+Matches Won: 415
+Matches Lost: 451
+Matches Tied: 5
+Matches with No Result: 39
+Average Runs per Over: 4.94
+
+
+
+
+
+

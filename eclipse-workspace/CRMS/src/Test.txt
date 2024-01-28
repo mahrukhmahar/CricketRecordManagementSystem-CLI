@@ -1,0 +1,105 @@
+Team: Pakistan
+First Test: 16/10/1952
+Tests Played: 453
+Tests Won: 148
+Tests Lost: 139
+Tests Drawn: 166
+Test Tied: 0
+Average Runs per Over: 2.97
+
+Team: India
+First Test: 25/06/1932
+Tests Played: 572
+Tests Won: 173
+Tests Lost: 176
+Tests Drawn: 222
+Test Tied: 1
+Average Runs per Over: 2.98
+
+Team: Australia
+First Test: 15/03/1877
+Tests Played: 859
+Tests Won: 408
+Tests Lost: 231
+Tests Drawn: 218
+Test Tied: 2
+Average Runs per Over: 3.05
+
+Team: Afghanistan
+First Test: 14/06/2018
+Tests Played: 7
+Tests Won: 3
+Tests Lost: 4
+Tests Drawn: 0
+Test Tied: 0
+Average Runs per Over: 3.10
+
+Team: Bangladesh
+First Test: 10/11/2000
+Tests Played: 138
+Tests Won: 18
+Tests Lost: 102
+Tests Drawn: 18
+Test Tied: 0
+Average Runs per Over: 3.14
+
+Team:  England
+First Test: 15/03/1877
+Tests Played: 1066
+Tests Won: 390
+Tests Lost: 321
+Tests Drawn: 355
+Test Tied: 0
+Average Runs per Over: 2.81
+
+Team: New Zealand
+First Test: 10/01/1930
+Tests Played: 464
+Tests Won: 112
+Tests Lost: 182
+Tests Drawn: 170
+Test Tied: 0
+Average Runs per Over: 2.77
+
+Team: South Africa
+First Test: 12/03/1889
+Tests Played: 460
+Tests Won: 177
+Tests Lost: 158
+Tests Drawn: 125
+Test Tied: 0
+Average Runs per Over: 2.89
+
+Team: West Indies
+First Test: 23/06/1928
+Tests Played: 573
+Tests Won: 182
+Tests Lost: 209
+Tests Drawn: 181
+Test Tied: 1
+Average Runs per Over: 3.03
+
+Team: Zimbabwe
+First Test: 18/10/1992
+Tests Played: 177
+Tests Won: 133
+Tests Lost: 75
+Tests Drawn: 29
+Test Tied: 0
+Average Runs per Over: 2.71
+
+Team: Ireland
+First Test: 11/05/2018
+Tests Played: 7
+Tests Won: 0
+Tests Lost: 7
+Tests Drawn: 0
+Test Tied: 0
+Average Runs per Over: 3.10
+
+
+
+
+
+
+

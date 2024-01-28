@@ -1,0 +1,136 @@
+Full Name: Mohammad Babar Azam
+Team: Pakistan
+Born: October 15, 1994, Lahore, Punjab
+Age:29y 25d
+Batting Style:Right hand Bat
+Playing Role: Batter
+
+Full Name: Shadab Khan
+Team: Pakistan
+Born: October 04, 1998, Mianwali
+Age:25y 36d
+Batting Style:Right hand Bat
+Playing Role: Allrounder
+
+Full Name: Fakhar Zaman
+Team: Pakistan
+Born: April 10, 1990, Mardan, North-West Frontier Province
+Age:33y 213d
+Batting Style:Left hand Bat
+Playing Role: Opening Batter
+
+Full Name: Haris Rauf 
+Team: Pakistan
+Born: November 07, 1993
+Age: 30y 2d
+Batting Style:Right hand Bat
+Playing Role: Bowler
+
+Full Name:  Naseem Shah
+Team: Pakistan
+Born: February 15, 2003
+Age: 20y 267d
+Batting Style: Right hand Bat
+Playing Role: Bowler
+
+Full Name:  Shaheen Shah Afridi
+Team: Pakistan
+Born: April 06, 2000, Khyber Agency
+Age:23y 217d
+Batting Style: Left hand Bat
+Playing Role: Bowler
+
+Full Name: Rohit Gurunath Sharma
+Team: India
+Born: April 30, 1987, Bansod, Nagpur, Maharashtra
+Age:36y 193d
+Batting Style: Right hand Bat
+Playing Role: Top order Batter
+
+Full Name: Virat Kohli
+Team: India
+Born: November 05, 1988, Delhi
+Age:35y 4d
+Batting Style: Right hand Bat
+Playing Role: Top order Batter
+
+Full Name: Hardik Himanshu Pandya
+Team: India
+Born: October 11, 1993, Choryasi, Gujarat
+Age: 30y 29d
+Batting Style: Right hand Bat
+Playing Role: Allrounder
+
+Full Name: Arshdeep Singh
+Team: India
+Born: February 05, 1999, Guna, Madhya Pradesh
+Age: 24y 277d
+Batting Style: Left hand Bat
+Playing Role: Bowler
+       
+Full Name: Kane Stuart Williamson
+Team: New Zealand
+Born: August 08, 1990, Tauranga
+Age: 33y 93d
+Batting Style: Right hand Bat
+Playing Role: Top order Batter
+
+Full Name: Michael Gordon Bracewell
+Team: New Zealand
+Born: February 14, 1991, Masterton, Wairarapa
+Age: 32y 268d
+Batting Style: Left hand Bat
+Playing Role: Batting Allrounder
+
+Full Name: Litton Kumer Das
+Team: Bangladesh
+Born: October 13, 1994, Dinajpur
+Age: 29y 27d
+Batting Style: Right hand Bat
+Playing Role: Wicketkeeper Batter
+
+Full Name: Mohammad Shoriful Islam
+Team: Bangladesh
+Born: June 03, 2001, Panchagor
+Age: 22y 159d
+Batting Style: Left hand Bat
+Playing Role: Bowler
+
+Full Name: Glenn James Maxwell
+Team: Australia
+Born: October 14, 1988, Kew, Melbourne, Victoria
+Age: 35y 26d
+Batting Style: Right hand Bat
+Playing Role: Batting Allrounder
+
+Full Name: Cameron Donald Green
+Team: Australia
+Born: June 03, 1999
+Age: 24y 159d
+Batting Style: Right hand Bat
+Playing Role: Batting Allrounder
+
+Full Name: Aaron James Finch
+Team: Australia
+Born: November 17, 1986, Colac, Victoria
+Age: 36y 357d
+Batting Style: Right hand Bat
+Playing Role: Top order Batter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

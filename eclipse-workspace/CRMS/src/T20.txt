@@ -1,0 +1,137 @@
+Team: Pakistan
+First Match: 28/08/2006
+Matches Played: 226
+Matches Won: 136
+Matches Lost: 84
+Matches Tied: 0
+Matches With No Result: 6
+Average Runs per Over: 7.81
+
+Team: India
+First Match: 01/12/2006
+Matches Played: 209
+Matches Won: 136
+Matches Lost: 66
+Matches Tied: 1
+Matches with No Result: 6
+Average Runs per Over: 8.54
+
+Team: Australia
+First Match: 17/02/2005
+Matches Played: 177
+Matches Won: 95
+Matches Lost: 78
+Matches Tied: 0
+Matches with No Result: 4
+Average Runs per Over: 8.40
+
+Team: Afghanistan
+First Match: 01/02/2010
+Matches Played: 118
+Matches Won: 74
+Matches Lost: 43
+Matches Tied: 0
+Matches with No Result: 1
+Average Runs per Over: 7.76
+
+Team: West Indies
+First Match: 16/02/2006
+Matches Played: 184
+Matches Won: 78
+Matches Lost: 96
+Matches Tied: 0
+Matches with No Result: 10
+Average Runs per Over: 7.95
+
+Team: Netherlands
+First Match: 02/08/2008
+Matches Played: 98
+Matches Won: 49
+Matches Lost: 45
+Matches Tied: 1
+Matches with No Result: 3
+Average Runs per Over: 7.43
+
+Team: England
+First Match: 13/06/2005
+Matches Played: 177
+Matches Won: 94
+Matches Lost: 77
+Matches Tied: 0
+Matches with No Result: 6
+Average Runs per Over: 8.43
+
+Team: Oman
+First Match: 25/07/2015
+Matches Played: 65
+Matches Won: 32
+Matches Lost: 32
+Matches Tied: 0
+Matches with No Result: 1
+Average Runs per Over: 7.40
+
+Team: Scotland
+First Match: 12/09/2007
+Matches Played: 89
+Matches Won: 41
+Matches Lost: 44
+Matches Tied: 1
+Matches with No Result: 3
+Average Runs per Over: 7.84
+
+Team: Namibia
+First Match: 20/05/2019
+Matches Played: 46
+Matches Won: 30
+Matches Lost: 16
+Matches Tied: 0
+Matches with No Result: 0
+Average Runs per Over: 7.61
+
+Team: Zimbabwe
+First Match: 28/11/2006
+Matches Played: 128
+Matches Won: 42
+Matches Lost: 85
+Matches Tied: 0
+Matches with No Result: 1
+Average Runs per Over: 7.37
+
+Team: New Zealand
+First Match: 17/02/2005
+Matches Played: 200
+Matches Won: 104
+Matches Lost: 90
+Matches Tied: 1
+Matches with No Result: 5
+Average Runs per Over: 8.29
+
+Team: Bangladesh
+First Match: 28/11/2006
+Matches Played: 155
+Matches Won: 58
+Matches Lost: 94
+Matches Tied: 0
+Matches with No Result: 3
+Average Runs per Over: 7.45
+
+Team: Nepal
+First Match: 16/03/2014
+Matches Played: 70
+Matches Won: 42
+Matches Lost: 27
+Matches Tied: 0
+Matches with No Result: 1
+Average Runs per Over: 7.78
+
+Team: Sri Lanka
+First Match: 15/06/2006
+Matches Played: 180
+Matches Won: 81
+Matches Lost: 97
+Matches Tied: 0
+Matches with No Result: 2
+Average Runs per Over: 7.63
+
+
+

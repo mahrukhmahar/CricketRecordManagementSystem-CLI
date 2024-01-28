@@ -1,0 +1,136 @@
+1 
+POPULAR MEN'S INTERNATIONAL TEAMS
+-> Afghanistan
+-> Australia
+-> Bangladesh
+-> England
+-> India
+-> Ireland
+-> New Zealand
+-> Pakistan
+-> South Africa
+-> Sri Lanka
+-> West Indies
+-> Zimbabwe
+-> Namibia
+-> Nepal
+-> Netherlands
+-> Oman
+-> Papua New Guinea
+-> Scotland
+-> United Arab Emirates
+-> United States of America
+
+2 
+POPULAR WOMEN'S INTERNATIONAL TEAMS
+-> Australia Women
+-> England Women
+-> India Women
+-> Ireland Women
+-> Netherlands Women
+-> New Zealand Women
+-> Pakistan Women
+-> South Africa Women
+-> Sri Lanka Women
+-> West Indies Women
+-> Bangladesh Women
+-> Thailand Women
+-> Zimbabwe Women
+
+3 
+BBL TEAMS
+-> Adelaide Strikers
+-> Brisbane Heat
+-> Hobart Hurricanes
+-> Melbourne Renegades
+-> Melbourne Stars
+-> Perth Scorchers
+-> Sydney Sixers
+-> Sydney Thunder
+
+4 
+BPL TEAMS
+-> Chattogram Challengers
+-> Comilla Victorians
+-> Dhaka Dominators
+-> Fortune Barishal
+-> Khulna Tigers
+-> Rangpur Riders
+-> Sylhet Strikers
+-> HUNDRED (MEN)
+-> Birmingham Phoenix (Men)
+-> London Spirit (Men)
+-> Manchester Originals (Men)
+-> Northern Superchargers (Men)
+-> Oval Invincibles (Men)
+-> Southern Brave (Men)
+-> Trent Rockets (Men)
+-> Welsh Fire (Men)
+
+5 
+IPL TEAMS
+-> Chennai Super Kings
+-> Delhi Capitals
+-> Gujarat Titans
+-> Kolkata Knight Riders
+-> Lucknow Super Giants
+-> Mumbai Indians
+-> Punjab Kings
+-> Rajasthan Royals
+-> Royal Challengers Bangalore
+-> Sunrisers Hyderabad
+
+6 
+ILT20 TEAMS
+-> Abu Dhabi Knight Riders
+-> Desert Vipers
+-> Dubai Capitals
+-> Gulf Giants
+-> MI Emirates
+-> Sharjah Warriors
+
+7 
+PSL TEAMS
+-> Islamabad United
+-> Karachi Kings
+-> Lahore Qalandars
+-> Multan Sultans
+-> Peshawar Zalmi
+-> Quetta Gladiators
+
+8 
+SA20 TEAMS
+-> Durban's Super Giants
+-> Joburg Super Kings
+-> MI Cape Town
+-> Paarl Royals
+-> Pretoria Capitals
+-> Sunrisers Eastern Cape
+-> HUNDRED (WOMEN)
+-> Birmingham Phoenix (Women)
+-> London Spirit (Women)
+-> Manchester Originals (Women)
+-> Northern Superchargers (Women)
+-> Oval Invincibles (Women)
+-> Southern Brave (Women)
+-> Trent Rockets (Women)
+-> Welsh Fire (Women)
+
+9
+WPL TEAMS
+-> Mumbai Indians Women
+-> Delhi Capitals Women
+-> Gujarat Giants Women
+-> Royal Challengers Bangalore Women
+-> UP Warriorz Women
+
+10
+WBBL TEAMS
+-> Adelaide Strikers Women
+-> Brisbane Heat Women
+-> Hobart Hurricanes Women
+-> Melbourne Renegades Women
+-> Melbourne Stars Women
+-> Perth Scorchers Women
+-> Sydney Sixers Women
+-> Sydney Thunder Women
